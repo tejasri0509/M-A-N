@@ -1,1 +1,1 @@
-# M-A-N
+# project-C22-template
